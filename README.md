@@ -1,6 +1,6 @@
 ## Olá! Eu sou Miguel Zufelatto 👋
 
-<img src="https://github.com/user-attachments/assets/26dbfcb8-3138-416d-9f41-1ae70445affa" align="right" width="250" style="margin-left: 10px;" alt="Um gato programador">
+<img src="https://github.com/user-attachments/assets/26dbfcb8-3138-416d-9f41-1ae70445affa" align="right" width="180" style="margin-left: 10px;" alt="Um gato programador">
 
 - 🔭 Hoje trabalho com análise de dados em R
 - 🎓 Estudante de tecnologia em sistemas de computação pela UFF
