@@ -1,6 +1,7 @@
 ## Olá! Eu sou Miguel Zufelatto 👋
 
 - 🔭 Hoje trabalho com análise de dados em R
+- 🎓 Estudante de tecnologia em sistemas de computação pela UFF
 - 🌱 Estudando Java
 - 😄 Pronomes: ele/dele
 
