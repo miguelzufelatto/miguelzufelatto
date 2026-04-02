@@ -1,5 +1,3 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk4OXY2ZzBtbGQ4Z2Q3b2hudTBrNHBtMjVwYm15MWFya2dyZ2t4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" align="right" width="200">
-
 ## Olá! Eu sou Miguel Zufelatto 👋
 
 - 🔭 Hoje trabalho com análise de dados em R
