@@ -29,9 +29,11 @@
 
 <br>
 
+<!--
 ### 📊 Estatísticas do LeetCode
 <div>
   <a href="https://leetcode.com/u/miguelzufelatto/">
     <img align="center" src="https://leetcard.jacoblin.cool/miguelzufelatto?theme=dark" alt="Estatísticas do LeetCode" />
   </a>
 </div>
+-->
