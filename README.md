@@ -30,7 +30,7 @@
 </div>
 
 <br>
-
+<!--
 ### 📊 Estatísticas do LeetCode
 <div>
   <a href="https://leetcode.com/u/miguelzufelatto/">
